@@ -1,1 +1,0 @@
-print('GB Lesson1')
